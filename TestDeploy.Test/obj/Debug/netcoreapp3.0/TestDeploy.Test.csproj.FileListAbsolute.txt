@@ -1,0 +1,4 @@
+/Users/adil.khan/adilKhan/test_deploy/TestDeploy.Test/obj/Debug/netcoreapp3.0/TestDeploy.Test.csprojAssemblyReference.cache
+/Users/adil.khan/adilKhan/test_deploy/TestDeploy.Test/obj/Debug/netcoreapp3.0/TestDeploy.Test.AssemblyInfoInputs.cache
+/Users/adil.khan/adilKhan/test_deploy/TestDeploy.Test/obj/Debug/netcoreapp3.0/TestDeploy.Test.AssemblyInfo.cs
+/Users/adil.khan/adilKhan/test_deploy/TestDeploy.Test/obj/Debug/netcoreapp3.0/TestDeploy.Test.csproj.CoreCompileInputs.cache
